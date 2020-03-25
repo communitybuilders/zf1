@@ -1,7 +1,7 @@
 {
     "name": "socialengineers/zf1",
     "description": "Zend Framework 1",
-    "version": "1.12.21",
+    "version": "1.12.22",
     "type": "library",
     "keywords": [
         "framework",
